@@ -3,6 +3,7 @@ Utilizing Python with the p5 graphics library, drawing a target and scoring poin
 
 In order to run this application successfully, you will need to install the p5 Python Graphics Creator Library. Please use the link below which is a documentation explaining how to install it.
 
+The purpose of this project was to inspire youngsters across Canada to build projects in Python and have a deeply enjoyable experience playing this game.
 
 # Documentation to Install P5: 
 https://p5.readthedocs.io/en/latest/install.html
